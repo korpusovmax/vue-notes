@@ -49,8 +49,7 @@ export default {
     width: 100%;
     padding: 12px;
     border-radius: 6px;
-    background: #616161;
-    opacity: 5%;
+    background: rgba(#616161, 5%);
     &__text {
         color: rgb(0, 0, 0, 40%);
         font-size: 24px;
